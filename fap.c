@@ -3,11 +3,8 @@
 #include <unistd.h>
 #include <string.h>
 
-<<<<<<< HEAD
 #include "fap.h"
-=======
-#include "fap.h"
->>>>>>> fap_branch_test
+
 #define ARR_SIZE 51
 #define CABLE_CONSTANT 0.18
 

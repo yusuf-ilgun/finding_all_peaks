@@ -5,7 +5,7 @@
 
 #include "fap.h"
 // testing -a option of the git
-// emergency fix test branch merge git etc.
+// merging test
 #define ARR_SIZE 51
 #define CABLE_CONSTANT 0.18
 
